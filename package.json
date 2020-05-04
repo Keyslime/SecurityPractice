@@ -1,0 +1,34 @@
+{
+  "name": "secrets",
+  "version": "1.0.0",
+  "description": "Security and Authentication Practice",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.2",
+    "express-session": "^1.17.1",
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "mongoose": "^5.9.11",
+    "mongoose-encryption": "^2.0.2",
+    "passport": "^0.4.1",
+    "passport-local-mongoose": "^6.0.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keyslime/SecurityPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keyslime/SecurityPractice/issues"
+  },
+  "homepage": "https://github.com/Keyslime/SecurityPractice#readme"
+}
