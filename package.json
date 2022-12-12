@@ -9,7 +9,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.1.2",
     "express-session": "^1.17.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "md5": "^2.2.1",
     "mongoose": "^5.9.11",
     "mongoose-encryption": "^2.0.2",
